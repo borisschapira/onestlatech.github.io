@@ -82,7 +82,7 @@ En conséquence, nous appelons :
 ## Signez !
 
 [**Signez cet appel en ajoutant votre nom à ce document**](https://github.com/onestlatech/onestlatech.github.io/edit/content/content/_index.md).
-Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre nom dans la liste (classée dans **l'ordre alphabétique**), cliquez sur `Commit changes` puis cliquez sur `Submit Pull Request`.
+Pour ce faire, créez un compte GitHub.com si vous n'en avez pas, ajoutez votre nom dans la liste (classée dans **l'ordre alphabétique**), cliquez sur `Propose file change`, puis cliquez sur `Create pull request`, et encore une fois sur `Create pull request`.
 
 Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonction et éventuellement organisation si vous le souhaitez (pas obligatoire)`
 
@@ -91,37 +91,38 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 ### Actrices et acteurs du numérique
 
 * [Marion Agé](https://github.com/K-mos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Adrien Agez, développeur web
-* [Damien Alexandre](https://twitter.com/damienalexandre), développeur
 * Romy Alula, développeuse, salariée
 * [Hamza Amrouche](http://simperfit.fr/)
 * Paul Andrieux, développeur
 * [Thibaut Arnoud](https://twitter.com/arnoudthibaut), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Jordan Aubert, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Morgan Auchede](https://twitter.com/mauchede)
+* Arthur d'Azémar, Développeur
 * Arnaud Bailly, Développeur
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
 * Nina Belaid, Chercheuse en biochimie
 * Jeremy Barthe, Tech Lead à Mediapart
+* [Quentin Baudet](https://github.com/Thornolf), Développeur 
 * Jade Bellereau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Leny Bernard](https://twitter.com/lenybernard), Co-fondateur / Développeur [Troopers](https://troopers.agency)
 * [Maximilien Bernard](https://github.com/mb3rnard), Développeur web
 * Jacques Billard, Tech Lead à Mediapart
 * Julien Blanchard, Développeur
 * [Antoine Bluchet](https://soyuka.me/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Anne-Laure de Boissieu, Développeuse web
-* [Paul Bonaud](https://mastodon.social/@paulrbr), Ingénieur Logiciel
+* Paul Bonaud, Ingénieur Logiciel
 * [Pascal Borreli](https://twitter.com/pborreli), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Stephane Bortzmeyer](https://www.bortzmeyer.org/), ingénieur réseaux
 * Nicolas Bouilleaud, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
+* [Benjamin Bouvier](https://github.com/bnjbvr), Développeur
 * [Clément Camin](https://www.keiruaprod.fr/), Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Chalamon](https://github.com/vincentchalamon), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Robin Chalas](https://github.com/chalasr)
 * Paul Chavard, Freelance, Développeur web, Membre de la communauté beta.gouv.fr
 * Caroline Chuong, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Valentin Claras](https://twitter.com/LarsVanCiental), Lead Dev chez M6Web
+* [Arnaud Cojez](https://github.com/arnaudcoj), Game Developper
 * Arnaud Combellas, développeur, salarié
 * Coralie Coton, Designeuse
 * Chrystelle Coupat, Responsable Exploitation Mediapart
@@ -129,24 +130,19 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Thomas Colin, Lead dev
 * Hervé Commowick, Co-Fondateur [Vanoix](https://vanoix.com)
 * [Grégory Copin](https://twitter.com/gregcop1), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Victor Darras](https://twitter.com/victordarras), Web Designer, Synbioz
 * Amélie Defrance, Intégratrice
-* Baptiste Defrance, SOC Analyst
 * Justine Delalleau, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Benoit Delesalle, Développeur Backend, Synbioz
 * [Mathieu Dewet](https://twitter.com/mathieu_dewet), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* Nicolas Desaleux, Lead dev
 * [Jérôme Desjardins](https://twitter.com/j_desjardin), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Adrien Di Pasquale - Développeur indépendant et enseignant au Wagon
-* [Olivier Dolbeau](https://odolbeau.fr/)
-* Gaëtan Duchaussois, Admin sys
 * [Kévin Dunglas](https://dunglas.fr), développeur, co-fondateur de [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Olivier Dolbeau](https://odolbeau.fr/)
 * Bruno Ebstein, développeur, salarié
 * Pierre Escobar, Freelance
 * [Guewen Faivre](https://twitter.com/guewen_faivre)
 * [Suzanne Favot](https://twitter.com/sfavot), développeur [JoliCode](http://jolicode.com/)
 * Alexandre Fontfreyde, Lead développeur
-* Hugo Fouques, dévéloppeur, Fretlink
 * Alexandre Friquet, infoPiiaf, Développeur web, Membre de la communauté beta.gouv.fr
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Delphine Gauthier, Développeuse Web
@@ -175,13 +171,14 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Baptiste Leduc](https://twitter.com/Korbeil_), Consultant Web, [JoliCode](https://jolicode.com/)
 * [Jacques Lefebvre](https://twitter.com/jockkos), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Simon Lehericey, Freelance, dev web, Membre de la communauté beta.gouv.fr
+* Florian Lemaitre, Lead developer, salarié
 * [Emmanuel Louisy-Gabriel](https://twitter.com/logamanu), [LiveMentor](https://twitter.com/_LiveMentor)
 * [Thomas Luquet](https://twitter.com/thomas_babord), Solidaires Informatique
-* Julien Manganne, développeur
 * [Olivier Mansour](https://twitter.com/omansour), CTO adjoint
+* [Grégoire Marchal](https://twitter.com/Gregoire_M), développeur
 * [Hélène Marchois](https://twitter.com/HeleneMaitre), agiliste [fairness.coop](https://fairness.coop/)
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
-* [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
+* Julien Manganne, développeur
 * Colin Maudry, Conseiller indépendant en Open Data
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -204,18 +201,13 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Christophe Robillard](https://twitter.com/krichtof), Freelance, Developpeur web, Membre de la communaute beta.gouv.fr
 * Pauline Roca, Salariée, data-scientiste, Pixyl (medtech)
 * [Alex Rock](https://twitter.com/Pierstoval)
-* [Guillaume Ponty](https://twitter.com/PontyGuillaume)
 * Gilles Roustan, Développeur à Mediapart
-* [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
-* Pierre Stazak, développeur web
 * Laury Sorriaux, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Alexandre Segura](https://twitter.com/alexmex_), [CoopCycle](https://coopcycle.org/fr/)
 * [Laurent Séguin](https://twitter.com/lcseguin), libriste et expert e-administration
-* [Julien Soleilhavoup](https://twitter.com/DevInKilt), Lead développeur, membre de l'AFUP et de DrupalFr
 * Clément Talleu, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Jérôme Tanghe](https://www.deuchnord.fr/), [Les-Tilleuls.coop](https://les-tilleuls.coop)
-* [Honoré Nintunze](https://twitter.com/nash_403), Développeur Web indépendant
 * [JF Thuillier](https://twitter.com/jeffthuillier), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nino Treyssat-Vincent, développeur web
 * [Kévin Van Der Stracten](https://twitter.com/kvanderstracten), [Les-Tilleuls.coop](https://les-tilleuls.coop)
@@ -224,6 +216,8 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
+* Pierre Stazak, développeur web
+* [Boris Schapira](https://boris.schapira.dev/2019/12/en-greve/), professionnel du Web
 
 ### Organisations
 
